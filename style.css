@@ -1,0 +1,54 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.google {
+	width: 585px;
+	margin: 150px auto 0px;
+ 
+}
+
+.google img {
+	display: block;
+	margin: 0px auto;
+
+}
+
+
+.google input {
+	width: 100%;
+	padding: 8px 0px 7px;
+	border: 1px solid gray;
+	box-sizing: border-box;
+	border-radius: 20px;
+	margin: 40px 0px 0px;
+}
+
+.google .button {
+	/* display: block; */
+	text-align: center;
+	margin: 40px auto;
+}
+.google .button  button{
+	font-family: arial;
+	font-size: 16px;
+	font-weight: 300;
+	padding: 8px 7px;
+	border-radius: 4px;
+	border: none;
+	margin: 20px 0px 0px;
+}
+
+.google p {
+	text-align: center;
+	font-family: cardana;
+	font-size: 18px;
+}
+
+.google p a {
+	text-decoration: none;
+}
+.google p a:hover{
+	text-decoration: underline;
+}
